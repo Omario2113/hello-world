@@ -1,5 +1,8 @@
 # hello-world
-OG Coding Start
+GitHub Workflow Practice
 
-What's poppin' slime(s), it's ya boi Omari here just checking out the new digs.
-I'll catch y'all on the flip side!
+Guess who's back...back again...Big O's back...tell a friend!
+Trying to get a grasp on this GitHub shit, but as we all know...
+***PRACTICE MAKES PERFECT***
+
+Also got rid of those old lines, we're older and therefore wiser.
